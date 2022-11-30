@@ -12,7 +12,7 @@ const Home: NextPage = () => {
     },
   });
   const [text, setText] = useState("");
-
+  console.log("home");
   return (
     <>
       <Head>
